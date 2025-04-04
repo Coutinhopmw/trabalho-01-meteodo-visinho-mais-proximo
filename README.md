@@ -1,5 +1,9 @@
 # Passo a passo OpenCV
 
+## Baixar o openCV: https://opencv.org/releases/
+Versão 4.8
+
+
 ## 1) Verificar se o path está configurado para a bin e a lib (ambos User e sistema)
 
 ### Exemplo:
